@@ -16,8 +16,17 @@ h1 {
     border-radius: 10px;
 
 }
-
+h2 { 
+  border: 5px outset red;
+  background-color: rgb(227, 230, 173);
+  text-align: center;
+}
 h3{
   color: rgb(134, 21, 87);
   margin-left: 20px;
+}
+div {
+  color:green
+  border: 7px outset blue;
+  text-align: center;
 }
